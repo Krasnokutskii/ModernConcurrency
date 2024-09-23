@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC2D0C04-7C4E-4A2C-AAB6-7A28F3703175"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "490AD7B4-DD2D-4441-A136-540597341FCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "modern multithreading/TaskGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24B20757-B416-4ADE-80D0-94ED8DA3E7E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "modern multithreading/TaskGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchImages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "24B20757-B416-4ADE-80D0-94ED8DA3E7E4 - c1a2f5f6e8be3f86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "modern_multithreading.TaskGroupViewModel.fetchImages() async -&gt; ()"
+                  moduleName = "modern multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iaroslavkrasnokutskii/Documents/Develop/modern%20multithreading/modern%20multithreading/TaskGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "24B20757-B416-4ADE-80D0-94ED8DA3E7E4 - 689ed94405bb6bc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for modern_multithreading.TaskGroupViewModel.fetchImages() async -&gt; ()"
+                  moduleName = "modern multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iaroslavkrasnokutskii/Documents/Develop/modern%20multithreading/modern%20multithreading/TaskGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "24B20757-B416-4ADE-80D0-94ED8DA3E7E4 - 9540353dfefcc4d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for modern_multithreading.TaskGroupViewModel.fetchImages() async -&gt; ()"
+                  moduleName = "modern multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iaroslavkrasnokutskii/Documents/Develop/modern%20multithreading/modern%20multithreading/TaskGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "24B20757-B416-4ADE-80D0-94ED8DA3E7E4 - 3b257807e5672ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for modern_multithreading.TaskGroupViewModel.fetchImages() async -&gt; ()"
+                  moduleName = "modern multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iaroslavkrasnokutskii/Documents/Develop/modern%20multithreading/modern%20multithreading/TaskGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
